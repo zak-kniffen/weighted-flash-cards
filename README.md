@@ -1,1 +1,2 @@
 # weighted-flash-cards
+This app is part of my goal to create an MVP mobile first app for flashcards that allows someone to easily copy and paste a word list into the app in order to automatically create a list. It also creates a weighted feature that allows the words to be weighted based on which ones were guessed correctly. 
